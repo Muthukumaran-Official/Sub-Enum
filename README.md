@@ -22,6 +22,12 @@
 
 ---
 
+## 📷 Preview
+
+![Profile Card Preview](preview.png)
+
+---
+
 ## 🛠️ Installation Guide
 
 ### **Step 1: Install Python**
